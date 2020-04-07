@@ -26,7 +26,7 @@ module.exports = [
   {
     id: 3,
     name: 'Antoine',
-    league: 'WAM',
+    tribe: 'WEBF',
     polygram: 'CHAN',
     age: 26,
     langages: ['javascript', 'node'],
